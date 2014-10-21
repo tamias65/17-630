@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="A3" Database="">
+  <Project Name="A3" Path="A3.project" Active="No"/>
+  <Project Name="A4" Path="../A4/A4.project" Active="No"/>
+  <Project Name="Demo" Path="../Demo/Demo.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="A3" ConfigName="Debug"/>
+      <Project Name="A4" ConfigName="Debug"/>
+      <Project Name="Demo" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Project Name="A3" ConfigName="Release"/>
+      <Project Name="A4" ConfigName="Release"/>
+      <Project Name="Demo" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
